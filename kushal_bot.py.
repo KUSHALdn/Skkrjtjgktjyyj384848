@@ -5,14 +5,14 @@ import os
 
 # --- BASIC CONFIG ---
 # Aapka Original Token fixed
-API_TOKEN = '8650620955:AAGbeAnHtxhYqaGwG9XZaEhkTP7nMLds1cA' 
+API_TOKEN = '8410119226:AAEDaMjNEmPINLbJc26RsPVNKgGjVNH_fSk' 
 bot = telebot.TeleBot(API_TOKEN)
 ADMIN_ID = 212552435  # Tera Fixed ID
 UPI_ID = "jamnajamna419@okicici"
 PATH = "/sdcard/Download/kushal/"
 
 # Links Setup (Apne links yahan dalo)
-DEMO_LINK = "https://t.me/demo_content"
+DEMO_LINK = "https://t.me/+SthMu-ojtGIyMDdl"
 PREMIUM_LINK = "https://t.me/+Your_Premium_Link"
 ADMIN_USERNAME = "Your_Admin_Username"
 
